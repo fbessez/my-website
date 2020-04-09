@@ -6,6 +6,7 @@ external: ''
 tech:
   - Python
   - BFS
+company: 'Home'
 showInProjects: true
 ---
 

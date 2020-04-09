@@ -6,6 +6,7 @@ external: ''
 tech:
   - Python
   - TableParser
+company: 'Home'
 showInProjects: true
 ---
 
