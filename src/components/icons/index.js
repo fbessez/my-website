@@ -13,6 +13,7 @@ import IconLogo from './logo';
 import IconPlayStore from './playstore';
 import IconStar from './star';
 import IconTwitter from './twitter';
+import IconYouTube from './youtube';
 import IconZap from './zap';
 
 export {
@@ -31,5 +32,6 @@ export {
   IconPlayStore,
   IconStar,
   IconTwitter,
+  IconYouTube,
   IconZap,
 };

@@ -30,6 +30,10 @@ module.exports = {
       name: 'Twitter',
       url: 'https://twitter.com/b16fabien',
     },
+    {
+      name: 'YouTube',
+      url: 'https://www.youtube.com/channel/UCXJqwvNF4F6pqI0Xxi0xjQQ',
+    },
   ],
 
   navLinks: [
@@ -49,6 +53,11 @@ module.exports = {
       name: 'Contact',
       url: '/#contact',
     },
+    // TODO: Add Blog in Menu Page
+    // {
+    //   name: 'Blog',
+    //   url: '/posts'
+    // }
   ],
 
   navHeight: 100,
