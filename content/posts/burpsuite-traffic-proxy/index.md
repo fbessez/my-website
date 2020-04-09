@@ -23,5 +23,3 @@ If you ever want to see details about the requests that leave your iPhone, this 
 6. For HTTPS Proxying, the client (your iPhone) will need to download the [SSL Cert](https://support.portswigger.net/customer/portal/articles/1841109-Mobile%20Set-up_iOS%20Device%20-%20Installing%20CA%20Certificate.html) from Burp Suite.
 7. Once downloaded, visit http://burp on your phone. This should prompt you to install a Profile. Upon completing approval flow, visit General > About > Certificate Trust Settings and toggle PortSwigger CA on.
 8. Restart Burp Suite and begin using your phone. You should see some traffic in Burp Suite which you can now filter as you wish.
-
-Recently while updating with [Skela](https://github.com/Upstatement/skela-wp-theme) with webpack, I encountered a weird error where I wasn't able to run a simple script:

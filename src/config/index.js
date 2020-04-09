@@ -53,11 +53,10 @@ module.exports = {
       name: 'Contact',
       url: '/#contact',
     },
-    // TODO: Add Blog in Menu Page
-    // {
-    //   name: 'Blog',
-    //   url: '/posts'
-    // }
+    {
+      name: 'Blog',
+      url: '/pensieve',
+    },
   ],
 
   navHeight: 100,
