@@ -6,7 +6,7 @@ module.exports = {
     'Fabien Bessez, Fabien, Bessez, fbessez, software engineer, back-end engineer, rails, grpc, web developer, juvo, wesleyan',
   siteUrl: 'https://fabien.bessez.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2', // TODO
+  googleAnalyticsID: 'UA-163225212-1',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk', // TODO
   name: 'Fabien Bessez',
   location: 'New York, NY',

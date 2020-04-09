@@ -6,6 +6,7 @@ external: ''
 tech:
   - Python
   - HighCharts
+company: 'School'
 showInProjects: true
 ---
 
