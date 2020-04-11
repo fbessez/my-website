@@ -6,6 +6,7 @@ external: ''
 tech:
   - Python
   - Paxos
+company: 'School'
 showInProjects: true
 ---
 

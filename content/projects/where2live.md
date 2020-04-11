@@ -8,6 +8,7 @@ tech:
   - Flask
   - Web Scraping
   - Glassdoor API
+company: 'Home'
 showInProjects: true
 ---
 

@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-Track and visualize your progress on Jira issues in real-time with the [Tempo for Chrome](https://www.tempo.io/tempo-for-chrome) extension.Easily turn on multiple trackers directly from your browser. Start and stop them whenever you see fit.
+Track and visualize your progress on Jira issues in real-time with the [Tempo for Chrome](https://www.tempo.io/tempo-for-chrome) extension. Easily turn on multiple trackers directly from your browser. Start and stop them whenever you see fit.
