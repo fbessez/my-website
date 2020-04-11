@@ -37,7 +37,7 @@
   "dependencies": {
     "animejs": "^3.1.0",
     "babel-plugin-styled-components": "^1.10.6",
-    "gatsby": "^2.18.7",
+    "gatsby": "^2.20.18",
     "gatsby-image": "^2.2.34",
     "gatsby-plugin-google-analytics": "^2.1.29",
     "gatsby-plugin-manifest": "^2.2.31",
@@ -48,6 +48,7 @@
     "gatsby-plugin-sharp": "^2.3.5",
     "gatsby-plugin-sitemap": "^2.2.22",
     "gatsby-plugin-styled-components": "^3.1.14",
+    "gatsby-remark-code-titles": "^1.1.0",
     "gatsby-remark-external-links": "0.0.4",
     "gatsby-remark-images": "^3.1.35",
     "gatsby-remark-prismjs": "^3.3.25",
@@ -73,7 +74,6 @@
     "eslint-config-prettier": "^6.7.0",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.17.0",
-    "gatsby-remark-code-titles": "^1.1.0",
     "husky": "^3.1.0",
     "lint-staged": "^9.5.0",
     "prettier": "^1.19.1"
