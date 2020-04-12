@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-A simple script that scrapes the NBA homepage for .swf links to a given night's NBA game recaps. It then uses [youtube_dl](https://github.com/ytdl-org/youtube-dl) to download them to your current directory and then opens them in your default media player. I created this script because it was getting incredibly redundant to navigate to each video link every morning. Now, one click and they are running on my local machine _(with no ads!)_.
+Stop spending 30 minutes navigating through NBA.com, watching ads and waiting for buffering. NBA Daily Recaps neatly compiles all of the Game Recaps from the NBA of the night before (default) for your ease of viewing. No ads, no wait, no NBA.com. Just run the script and the game recaps begin playing on your default media player.

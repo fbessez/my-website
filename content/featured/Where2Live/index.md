@@ -13,4 +13,4 @@ tech:
 showInProjects: true
 ---
 
-A quick web app that will take as inputs a Job Title and a Location to calculate how much money the typical person would be able to save on a yearly basis. It consults [Glassdoor](https://glassdoor.com), [Teleport](https://teleport.org), [Google Maps](https://developers.google.com/maps/documentation) and [NomadList](http://nomadlist.com/) APIs.
+Figure out where the most financially efficient place to live is based on your job. Where2Live leverages APIs from [Glassdoor](https://glassdoor.com), [Teleport](https://teleport.org), [Google Maps](https://developers.google.com/maps/documentation) and [NomadList](http://nomadlist.com/) to provide a glance into the financial impact of moving cities or taking a new job.

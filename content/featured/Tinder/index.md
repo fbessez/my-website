@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-An unofficial client & wrapper documenting and providing client code for [Tinder's](https://tinder.com/) private APIs. I used [BurpSuite](https://portswigger.net/burp) to proxy my phone traffic while on Tinder to figure out the routes and eventually the full API behavior.
+Use Tinder API Client to easily interact with the robust data passing through [Tinder's](https://tinder.com) APIs. Originally used as a tool to understand what kind of personal information of mine was available in the public via Tinder, Tinder API Client now makes it easy to write bots, filters, searches, data aggregation tools etc.
