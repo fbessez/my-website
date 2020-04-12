@@ -8,5 +8,5 @@ url: 'https://bleacherreport.com/'
 ---
 
 - Developed an elixir microservice for chatbots.
-- Used new microservice (that one ^^^) for a Facebook Messenger Bot written in Node.js with help of NLP Wit.ai.
+- Used new microservice (that one ^^^) for a Facebook Messenger Bot written in Node.js with help of NLP tool, [Wit.ai](https://wit.ai).
 - Played knockout basketball on the fourth floor every day. I won a few times, too.

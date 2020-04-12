@@ -12,8 +12,10 @@ skills:
   - Express
 ---
 
-Hey! I'm Fabien, a backend engineer based in New York, NY who enjoys building useful backend services. I’ve been working hard to develop my communication, technical and leadership skills while developing a breadth of knowledge across the SDLC.
+Hey! I'm a backend engineer from New York City.
 
-Shortly after graduating from [Wesleyan University](https://www.wesleyan.edu/), I joined the team at [Juvo](https://www.juvo.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis to help provide financial inclusion to the underbanked community of the whole wide world.
+Shortly after graduating from [Wesleyan University](https://www.wesleyan.edu/), I joined the team at [Juvo](https://www.juvo.com/) where I focus on establishing financial identities for those left out of the financial industry.
+
+Besides coding, I enjoy breaking down business goals into more approachable and executable work for myself and my team to tackle.
 
 Here are a few technologies I've been working with recently:

@@ -1,7 +1,7 @@
 ---
 date: '2018-01-01'
 title: 'Software Engineer (Contractor)'
-company: 'French Connection'
+company: 'French Connection P.I.'
 location: 'New York, NY'
 range: 'June 2017 - January 2018'
 url: 'http://www.frenchdetective.com/'
