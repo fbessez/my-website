@@ -37,5 +37,5 @@
 1. Preview the site as it will appear once deployed
 
    ```sh
-   npm run server
+   npm run serve
    ```
