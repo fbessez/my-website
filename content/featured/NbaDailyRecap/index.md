@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'NBA Daily Recaps'
 cover: './logo.png'
 github: 'https://github.com/fbessez/nbaRecapCompiler'

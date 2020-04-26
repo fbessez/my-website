@@ -1,14 +1,12 @@
 ---
-date: '2020-03-20'
-title: 'OctoOrg'
+date: '1'
+title: 'Octo Org'
+cover: './octo-org.png'
 github: 'https://github.com/fbessez/octo-org'
-external: 'https://github.com/fbessez/octo-org'
 tech:
-  - GoLang
+  - Go
   - GitHub API
-  - JS
-  - PullPanda
-company: 'GitHub'
+  - HTML + CSS + JS
 showInProjects: true
 ---
 
