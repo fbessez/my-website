@@ -7,7 +7,7 @@ skills:
   - Go
   - gRPC
   - Python
-  - Django
+  - graphQL
   - Node.js
   - Express
 ---

@@ -5,4 +5,4 @@ subtitle: 'Software Engineer.'
 contactText: 'Get In Touch'
 ---
 
-Imagine Jon Snow and Ina Garten had a baby boy. And that baby was raised by Mark Cuban. But, he watched too much Curb Your Enthusiasm. And maybe listened to too much Michael Buble. That's me.
+Imagine Jon Snow and Ina Garten had a baby boy. He watched too much Curb Your Enthusiasm and maybe listened to too much Michael Buble. That's me.
