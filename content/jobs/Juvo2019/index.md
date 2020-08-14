@@ -3,7 +3,7 @@ date: '2020-04-10'
 title: 'Engineering Manager'
 company: 'Juvo (manager)'
 location: 'San Francisco, CA'
-range: 'August 2019 - Present'
+range: 'August 2019 - August 2020'
 url: 'https://www.juvo.com/'
 ---
 

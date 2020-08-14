@@ -3,7 +3,7 @@ date: '2019-08-10'
 title: 'Software Engineer'
 company: 'Juvo (engineer)'
 location: 'San Francisco, CA'
-range: 'January 2018 - Present'
+range: 'January 2018 - August 2020'
 url: 'https://www.juvo.com/'
 ---
 
