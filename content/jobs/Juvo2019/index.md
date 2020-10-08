@@ -7,7 +7,7 @@ range: 'August 2019 - August 2020'
 url: 'https://www.juvo.com/'
 ---
 
-- Managed team of engineers responsible for executing technicail integration with partners.
+- Managed team of engineers responsible for executing technical integration with partners.
 - Introduced a [gRPC powered micro-service in golang](/pensieve/grpc-at-juvo) that establishes a common interface for all partner-bound traffic leaving a Rails monolith.
 - Designed feature flag driven architecture for our core services to allow for CI/CD and A/B testing.
 - Spearheaded bi-weekly internal tech talk to encourage inter-team communication and collaboration. Free lunch, too.

@@ -7,4 +7,4 @@ range: 'August 2020 - Present'
 url: 'https://www.facebook.com/'
 ---
 
-- I am still in bootcamp!
+- I am joining the Recruiting Core X team!
