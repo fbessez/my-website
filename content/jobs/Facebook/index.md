@@ -7,4 +7,4 @@ range: 'August 2020 - Present'
 url: 'https://www.facebook.com/'
 ---
 
-- I am joining the Recruiting Core X team!
+- I am on the Recruiting Products team. Specifically, focused on recruiting data privacy.
